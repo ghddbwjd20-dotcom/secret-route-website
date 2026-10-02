@@ -1,0 +1,3 @@
+<div class="sr-content" data-sr-block="home-05-banner" data-page="content">
+<div class="wrap"><div class="newsletter"><span class="eyebrow">MAKE YOUR EVERYDAY</span><h2 style="margin-top:12px">당신의 일상에, 새로운 루트.</h2><p>시크릿루트의 새로운 스타일을 만나보세요.</p><a class="button" data-sr-link="collection.html" data-sr-query="" href="/collection">이번 시즌 컬렉션 ↗</a></div></div>
+</div>

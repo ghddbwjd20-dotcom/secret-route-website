@@ -1,0 +1,3 @@
+<div class="sr-content" data-sr-block="home-04-best" data-page="content">
+<section class="wrap" style="padding-top:0"><div class="section-head"><div><span class="eyebrow">OUR FAVORITES</span><h2>자꾸 손이 가는 베스트</h2><p>매일의 옷장에 더하고 싶은 아이템.</p></div><a class="more" data-sr-link="best.html" data-sr-query="" href="/best">베스트 모두 보기 ↗</a></div><div class="products" data-products="best"></div></section>
+</div>

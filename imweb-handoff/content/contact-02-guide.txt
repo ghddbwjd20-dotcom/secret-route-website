@@ -1,0 +1,3 @@
+<div class="sr-content" data-sr-block="contact-02-guide" data-page="contact">
+<div class="wrap"><div class="panel"><h2>문의 전 확인해 주세요</h2><p>상품 문의는 상품명을, 주문 문의는 주문번호를 함께 적어 주세요.<br>응답 시간과 고객센터 연락처는 운영 정책에 맞게 입력해 주세요.</p></div></div>
+</div>

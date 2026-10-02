@@ -1,0 +1,3 @@
+<div class="sr-content" data-sr-block="about" data-page="about">
+<div class="wrap page-intro"><a class="crumb" data-sr-link="index.html" data-sr-query="" href="/">HOME</a><h1>ABOUT SECRET ROUTE</h1><p>시크릿루트 안내</p></div><div class="wrap page-body"><div class="panel"><h2>ABOUT SECRET ROUTE</h2><p>매일 입고 싶은 편안함. 과하지 않은 색감과 자연스러운 실루엣으로, 나다운 하루를 위한 옷장을 제안합니다.</p><a class="button light" data-sr-link="shop.html" data-sr-query="" href="/shop">쇼핑하러 가기 ↗</a></div></div>
+</div>
