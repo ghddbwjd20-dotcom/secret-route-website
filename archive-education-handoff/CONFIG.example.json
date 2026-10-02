@@ -1,0 +1,29 @@
+{
+  "logoUrl": "",
+  "showCustomHeader": true,
+  "showCustomFooter": true,
+  "links": {
+    "index.html": "/",
+    "free-classes.html": "/free-classes",
+    "premium.html": "/premium",
+    "resources.html": "/resources",
+    "mentors.html": "/mentors",
+    "class-1.html": "/class-1",
+    "class-2.html": "/class-2",
+    "class-3.html": "/class-3",
+    "premium-detail.html": "/premium-detail",
+    "support.html": "/support",
+    "terms.html": "/terms",
+    "privacy.html": "/privacy",
+    "login.html": "",
+    "signup.html": ""
+  },
+  "loginUrl": "",
+  "signupUrl": "",
+  "applicationUrls": {
+    "class-1": "",
+    "class-2": "",
+    "class-3": ""
+  },
+  "premiumPurchaseUrl": ""
+}

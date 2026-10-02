@@ -1,29 +1,24 @@
 {
-  "logoUrl": "",
+  "assetBase": "https://ghddbwjd20-dotcom.github.io/secret-route-website/shop-assets/",
+  "imageUrls": {},
   "showCustomHeader": true,
   "showCustomFooter": true,
   "links": {
     "index.html": "/",
-    "free-classes.html": "/free-classes",
-    "premium.html": "/premium",
-    "resources.html": "/resources",
-    "mentors.html": "/mentors",
-    "class-1.html": "/class-1",
-    "class-2.html": "/class-2",
-    "class-3.html": "/class-3",
-    "premium-detail.html": "/premium-detail",
+    "shop.html": "/shop",
+    "new.html": "/new",
+    "best.html": "/best",
+    "collection.html": "/collection",
+    "product.html": "/product",
+    "wishlist.html": "/wishlist",
+    "cart.html": "/cart",
+    "about.html": "/about",
     "support.html": "/support",
+    "shipping.html": "/shipping",
     "terms.html": "/terms",
     "privacy.html": "/privacy",
-    "login.html": "",
-    "signup.html": ""
+    "login.html": "/login",
+    "signup.html": "/signup"
   },
-  "loginUrl": "",
-  "signupUrl": "",
-  "applicationUrls": {
-    "class-1": "",
-    "class-2": "",
-    "class-3": ""
-  },
-  "premiumPurchaseUrl": ""
+  "productUrls": {}
 }
