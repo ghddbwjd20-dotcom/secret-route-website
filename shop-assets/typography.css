@@ -1,0 +1,18 @@
+/* Pretendard font is loaded once by the common Header Code. */
+:root{--sr-font:"Pretendard Variable",Pretendard,-apple-system,BlinkMacSystemFont,"Segoe UI","Malgun Gothic",sans-serif}
+body{font-family:var(--sr-font)!important;font-weight:400}
+/* Text elements only: retain icon font families on icon elements. */
+body :is(h1,h2,h3,h4,h5,h6,p,a,label,button,input,textarea,select,option,td,th,li,summary,strong,b,small,em,span,div):not([class*="icon"]):not([class^="fa"]):not([class*=" fa"]):not([class^="ii"]):not([class*="glyphicon"]){font-family:var(--sr-font)!important}
+body :is(h1,h2,h3,h4,h5,h6){font-weight:700!important}
+body :is(strong,b){font-weight:700!important}
+body :is(button,input,textarea,select){font-family:var(--sr-font)!important}
+body :is(button,.btn){font-weight:600!important}
+body header nav a{font-weight:600!important}
+.sr-content{font-family:var(--sr-font)!important;font-weight:400}
+.sr-content .hero h1{font-weight:800!important}
+.sr-content :is(.section-head h2,.page-intro h1,.form-heading h2,.editorial h2){font-weight:700!important}
+.sr-content :is(.panel h2,.newsletter h2){font-weight:700!important}
+.sr-content .product-meta h3{font-weight:500!important}
+.sr-content :is(.price strong,.discount){font-weight:700!important}
+.sr-content :is(.button,.tag,.eyebrow,.filters button.active){font-weight:600!important}
+.sr-content :is(p,.crumb,.more){font-weight:400}
